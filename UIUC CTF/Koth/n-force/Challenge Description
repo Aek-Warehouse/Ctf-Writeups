@@ -12,4 +12,6 @@ n_gon P B O # assert that points P, B, and O form a regular 3-gon
 
 ```
 
+Attatched was the "parse_construction" which can also be found in Ctf-Writeups/UIUC CTF/Koth/n-force/
+
 Other commands are available - attached is the parser which you can use to verify your constructions locally.
